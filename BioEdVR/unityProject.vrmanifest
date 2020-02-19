@@ -2,13 +2,13 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.vr_tutorial.exe",
+      "app_key": "application.generated.unity.bioedvrtest.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\BioEdVR-Vincent\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Alex\\Documents\\Unity\\BioEdVR-test\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "VR_Tutorial [Testing]"
+          "name": "BioEdVR-test [Testing]"
         }
       }
     }
